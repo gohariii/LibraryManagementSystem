@@ -22,7 +22,7 @@ Database Setup
 
 Database Engine: Microsoft SQL Server.
 
-Setup File: You will find the SQL script included in the main directory (under the pom.xml file) named LibraryDB_Setup.sql.
+Setup File: You will find the SQL script included in the main directory named LibraryDB_Setup.sql.
 
 Instructions: Simply run this script on your SQL Server to create the database schema and all necessary tables.
 
